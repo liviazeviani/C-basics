@@ -1,0 +1,15 @@
+C:\Users\livia\OneDrive\Documents\Livia\Learning\bin\Debug\net7.0\Learning.exe
+C:\Users\livia\OneDrive\Documents\Livia\Learning\bin\Debug\net7.0\Learning.deps.json
+C:\Users\livia\OneDrive\Documents\Livia\Learning\bin\Debug\net7.0\Learning.runtimeconfig.json
+C:\Users\livia\OneDrive\Documents\Livia\Learning\bin\Debug\net7.0\Learning.dll
+C:\Users\livia\OneDrive\Documents\Livia\Learning\bin\Debug\net7.0\Learning.pdb
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.dll
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\refint\Learning.dll
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.pdb
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\Learning.genruntimeconfig.cache
+C:\Users\livia\OneDrive\Documents\Livia\Learning\obj\Debug\net7.0\ref\Learning.dll
